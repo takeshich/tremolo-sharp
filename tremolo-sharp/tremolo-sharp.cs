@@ -50,7 +50,7 @@ using OggVorbisFilePtr = System.IntPtr;
 // work fine if I correctly define this.
 using OV_LONG = System.Int32;
 
-namespace UnmanagedOgg
+namespace TremoloSharp
 {
 	public class VorbisException : Exception
 	{
