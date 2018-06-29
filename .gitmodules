@@ -1,0 +1,3 @@
+[submodule "external/tremolo"]
+	path = external/tremolo
+	url = https://android.googlesource.com/platform/external/tremolo
