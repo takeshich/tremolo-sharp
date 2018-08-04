@@ -9,7 +9,7 @@ APP_PLATFORM := android-23
 
 LOCAL_ARM_MODE := arm
 LOCAL_MODULE := tremolo
-LOCAL_PATH := $(ROOT_PATH)/external/tremolo/Tremolo
+LOCAL_PATH := ../external/tremolo/Tremolo
 ifeq ($(TARGET_ARCH_ABI),armeabi-v7a)
 
 LOCAL_CFLAGS := -ffast-math -D_ARM_ASSEM_
